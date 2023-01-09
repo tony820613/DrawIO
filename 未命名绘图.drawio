@@ -1,41 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T04:07:59.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="8U9xkFhru_Iad8E_AUW5" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T05:51:25.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="tVPQfMEuxJS9ydGRkzM_" version="20.8.3" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="1358" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-3" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_7000_9-slot_switch_chassis;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="690" y="250" width="161" height="208" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-3" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_7000_9-slot_switch_chassis;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="469" width="161" height="208" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-4" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_7000_9-slot_switch_chassis;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="690" y="250" width="161" height="208" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-4" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_7000_9-slot_switch_chassis;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1289" y="600" width="161" height="208" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-5" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_7000_9-slot_switch_chassis;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="470" y="250" width="161" height="208" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datacenter;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="350" width="83" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-6" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_7000_4-slot_switch_chassis;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="690" y="300" width="161" height="104" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datastore_66_full;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="469" width="28.000000000000004" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datacenter;" vertex="1" parent="1">
-          <mxGeometry x="970" y="250" width="83" height="53" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datastore;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="540" width="28.000000000000004" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datastore_66_full;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="369" width="28.000000000000004" height="35" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-15" value="第一座台北刀鋒" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="680" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datastore;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="440" width="28.000000000000004" height="35" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-16" value="Label" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#B1DDF0;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="256.5" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-15" value="Label" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="670.5" y="30" width="200" height="70" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-17" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1368" y="151.5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-16" value="Label" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#B1DDF0;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="820" y="130" width="170" height="40" as="geometry" />
+        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.transport;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="170" width="38" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-17" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="1">
-          <mxGeometry x="790" y="120" width="60" height="60" as="geometry" />
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server;" vertex="1" parent="1">
+          <mxGeometry x="680" y="104" width="120" height="226" as="geometry" />
         </mxCell>
-        <mxCell id="K1tRB7-W2vUKsGSA8-Zj-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.transport;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="290" width="38" height="23" as="geometry" />
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.esxi_host;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="21" width="82" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.vm_with_a_snapshot;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="430" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-6" value="第一座中壢刀鋒" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="817" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server;" vertex="1" parent="1">
+          <mxGeometry x="817" y="104" width="120" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-8" value="第一座台北刀鋒" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="950" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server;" vertex="1" parent="1">
+          <mxGeometry x="950" y="104" width="120" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-10" value="第一座台北刀鋒" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="104" width="120" height="226" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
