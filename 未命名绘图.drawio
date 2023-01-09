@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T07:01:22.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="lDvtunYDk2LQCZocEIeL" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T07:02:48.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="s4X95vxoaLaZVfVViKgB" version="20.8.3" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -141,6 +141,15 @@
         </mxCell>
         <mxCell id="yUQ04PIXcJd15L_iZT2i-39" value="Label" style="html=1;shape=mxgraph.infographic.barCallout;dx=100;dy=30;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="1">
           <mxGeometry x="1070" y="810" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-40" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server_stack;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="470" width="23" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yUQ04PIXcJd15L_iZT2i-42" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server_cluster;" vertex="1" parent="1">
+          <mxGeometry x="1142" y="540" width="56.00000000000001" height="28.000000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
